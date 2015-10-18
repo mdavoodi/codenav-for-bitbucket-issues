@@ -7,9 +7,9 @@ This plugin enables you to jump to definitions in your source right in the brows
 
 1. Install exuberant-ctags and make sure it's in your path. Most linux distributions come with it installed but if not, you can find the most recent version [here](http://ctags.sourceforge.net/).
 2. Download and install Code Navigation for Bitbucket.
-3.  Go to `Code Navigation for Bitbucket Global Settings` page in the Bitbucket admin panel.
-4.  Enable `Indexing` by clicking the check box.
-5.Click `Save and Reindex` to save the settings and subsequently reindex all repositories.
+3. Go to `Code Navigation for Bitbucket Global Settings` page in the Bitbucket admin panel.
+4. Enable `Indexing` by clicking the check box.
+5. Click `Save and Reindex` to save the settings and subsequently reindex all repositories.
 
 ### Repository Settings
 
