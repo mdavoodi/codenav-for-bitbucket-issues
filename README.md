@@ -1,7 +1,7 @@
 Code Navigation for Bitbucket
 --------------------------------
 ### Description
-This plugin enables you to jump to definitions in your source right in the browser, just like an IDE! It does this by indexing all of your repositories using **ctags**.
+This plugin enables you to jump to definitions in your source right in the browser, just like an IDE! It does this by indexing all of your repositories using **ctags**. Any language supported by ctags is supported.
 
 ### Installation
 
